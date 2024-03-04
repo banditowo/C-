@@ -2,7 +2,7 @@
 
  I tried making a very simple flappy bird like endless runner, but instead of the characters bouncing, you have complete control over them; and also there are projectiles.
 
- I had a lot of trouble with this assignment since for some reason Liv Coding was not working and I didn't know how to fix it and I couldn't realkly get help with it until very recvently, so the majority if it is made using blueprints, and then I added a simple scoring system at the end (when Live Coding finally started working again) with c++. 
+ I had a lot of trouble with this assignment since for some reason Live Coding was not working and I didn't know how to fix it and I couldn't really get help with it until very recently, so the majority of it is made using blueprints, and then I added a simple scoring system at the end (when Live Coding finally started working again) with c++. 
 
 Controls;
 WASD for player 1 (red ball)
